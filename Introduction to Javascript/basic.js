@@ -1,1 +1,1 @@
-console.log("Learning and Mastering Javascript.");
+console.log("Learning and Mastering Javascript");
